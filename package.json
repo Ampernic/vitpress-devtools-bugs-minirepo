@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "vite-plugin-vue-devtools": "^8.0.3",
+    "vitepress": "^1.6.4"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
